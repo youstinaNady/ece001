@@ -1,0 +1,25 @@
+<html>
+    <body>
+        <h1>Applications of artificial intelligence</h1>
+        <h2>Links:-</h2>
+        <ul>
+            <li><a href="mainpage.html">Main page</a></li>
+            <li><a href="introduction.html">Introduction</a></li>
+            <li><a href="categoriesofartificialintelligence.html">Categories of artificial intelligence</a></li>
+            <li> <a href="applicationsofartificialintelligence.html">Applications of Artificial Antelligence</a></li>
+            <li><a href="conclusions.html">conclusions</a></li>
+          </ul>
+          There's many applications for artificial intelligence as technology can be applied to many different sectors and industries.
+          As it is used in the industry of  healthcare (medicine) for the dose of drugs, surgical operations and X-ray readings.
+         It is used in computers that play chess and self-driving cars.
+         It can be used in the financial industry as it can detect and flag activity in banking and finance such as unusual the usage of debit card , large account deposits and identify 
+         
+         
+         which transactions are likely to be fraudulent, tracking fast and accurate credit points ,in addition to automate manually intense data management tasks. 
+          It also helps streamline and ease the trade .
+         Each of these machines must consider the sequels  of any action they would take, as 
+         each one of these actions will impact the end result.
+         In future artificial intelligence will change every industry, but we have to recognize its limits.
+         <img src="artificial_intelligence_benefits_risk.jpg" alt="artificial_intelligence_benefits_risk">
+    </body>
+</html>

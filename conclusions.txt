@@ -1,0 +1,16 @@
+<html>
+    <body>
+        <h1>Conclusions</h1>
+        <h2>Links:-</h2>
+        <ul>
+            <li><a href="mainpage.html">Main page</a></li>
+            <li><a href="introduction.html">Introduction</a></li>
+            <li><a href="categoriesofartificialintelligence.html">Categories of artificial intelligence</a></li>
+            <li> <a href="applicationsofartificialintelligence.html">Applications of Artificial Antelligence</a></li>
+            <li><a href="conclusions.html">conclusions</a></li>
+
+          </ul>
+          we conclude from this all that artificial intelligence is important in our life in different fields and industries. As it represents the higher level in human intelligence and may be more than this level. We must understand the limits of this technical thing, as if it exceeds ,it will lead to bad results .it can perform many complex tasks that human can not perform it . There's two main categories which are narrow AI that refers to weakness and the other one is the general AI which refers to strength. Each one of them has its own application . 
+          <img src="ai-and-dev.jpg" alt="ai-and-dev">
+    </body>
+</html>
